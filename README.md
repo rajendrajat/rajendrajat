@@ -1,8 +1,8 @@
 # Hi, I'm Rajendra 👋
 
-DevOps-oriented Senior Software Engineer with 6+ years of experience supporting enterprise production systems, Linux environments, and large-scale customer deployments.
+DevOps-focused Senior Software Engineer with 6+ years of experience in enterprise production environments, Linux systems, and system reliability.
 
-My background is rooted in real-world incident response, root cause analysis, and system reliability. I work hands-on with diagnostics, networking, and OS-level troubleshooting in business-critical environments.
+Experienced in supporting business-critical systems and large-scale enterprise environments. My background is rooted in real-world incident response, root cause analysis, and OS/network-level troubleshooting.
 
 I am currently expanding into DevOps engineering by building practical expertise in automation, CI/CD pipelines, containers, and cloud infrastructure.
 
@@ -16,24 +16,25 @@ I am currently expanding into DevOps engineering by building practical expertise
 ✔ Network-level debugging (DNS, Proxy, TLS, HTTP/S)  
 ✔ Experience handling high-impact incidents and escalations  
 ✔ Collaboration with cross-functional and engineering teams  
+✔ Reliability-focused engineering mindset  
 
 ---
 
 ## 🔧 Technical Toolkit
 
-**Operating Systems**  
+### Operating Systems
 Linux (Ubuntu, CentOS), Windows Server
 
-**DevOps & Automation**  
+### DevOps & Automation
 Git, GitHub Actions, Jenkins, Bash, Python
 
-**Containerization**  
+### Containerization
 Docker, container lifecycle management
 
-**Cloud Platforms**  
+### Cloud Platforms
 AWS, Microsoft Azure, Google Cloud (hands-on labs)
 
-**Diagnostics & Observability**  
+### Diagnostics & Observability
 Wireshark, Fiddler, ProcDump, Process Monitor, log analysis
 
 ---
@@ -48,13 +49,16 @@ Wireshark, Fiddler, ProcDump, Process Monitor, log analysis
 
 ---
 
-## 📂 Hands-on Practice
+## 📌 Featured DevOps Projects
 
-- Linux automation scripting  
-- Git workflows and branching strategies  
-- CI/CD pipeline labs  
-- Docker-based deployments  
-- Cloud VM provisioning and NGINX setups  
+🔹 **CI/CD Pipeline Demo**  
+Automated build and deployment pipeline using Jenkins and GitHub Actions.
+
+🔹 **Dockerized Application Deployment**  
+Containerized sample application with Docker and NGINX reverse proxy.
+
+🔹 **Linux Automation Lab**  
+Bash scripts for user management, backups, and monitoring tasks.
 
 ---
 
@@ -74,4 +78,10 @@ I view DevOps as a culture focused on:
 - Automation  
 - Ownership  
 - Continuous improvement  
-- Scalable systems
+- Scalable systems  
+
+---
+
+## 🤝 Connect with Me
+
+LinkedIn: https://linkedin.com/in/linkrajendrajat
