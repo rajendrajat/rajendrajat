@@ -128,12 +128,11 @@ principles:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrajat&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rajendrajat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrajat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrajat&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrajat&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
 </p>
 
 ---
@@ -142,14 +141,6 @@ principles:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajendrajat&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajendrajat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </p>
 
 ---
